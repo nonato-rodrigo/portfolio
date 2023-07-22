@@ -2,7 +2,7 @@
 
 ## Esse portfólio foi inspirado no portfólio criado pelo curso @devemdobro
 
-Portfólio é um projeto de com o objetivo de me apresentar e mostrar os meus melhores projetos.
+Portfólio é um projeto feito com o objetivo de me apresentar e mostrar os meus melhores projetos.
 
 [<img src=./src/gif/Anima%C3%A7%C3%A3o.gif>]
 
